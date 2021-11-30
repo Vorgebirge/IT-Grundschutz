@@ -1,7 +1,7 @@
 # IT-Grundschutz
 Aufbereitung IT-Grundschutz-Kompendium als JSON- und als XLSX-Datei(en)
 
-Umwandung des IT-Grundschutz-Kompendiums in eine JSON-Datei
+Umwandlung des IT-Grundschutz-Kompendiums in eine JSON-Datei
 
 Ausgehend von der JSON-Datei:
 Umwandlung jedes Bausteins des IT-Grundschutz-Kompendiums in eine Tabelle
