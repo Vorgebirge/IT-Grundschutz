@@ -1,4 +1,7 @@
 # IT-Grundschutz
+
+![IT-GS Wortwolke](./IT-GS-Wortwolke.jpg)
+
 Aufbereitung IT-Grundschutz-Kompendium als JSON- und als XLSX-Datei(en)
 
 Umwandlung des IT-Grundschutz-Kompendiums in eine JSON-Datei
