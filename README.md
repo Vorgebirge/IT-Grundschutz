@@ -8,7 +8,7 @@ Umwandlung des [IT-Grundschutz-Kompendiums](https://www.bsi.bund.de/DE/Themen/Un
 
 Ausgehend von der JSON-Datei:
 Umwandlung jedes Bausteins des IT-Grundschutz-Kompendiums in eine Excel-Tabelle
-- Eine Zeile je Teilanforderung (genau ein Modalverb) jeder Anforderung
+- Eine Zeile je Teilanforderung (maximal genau ein Modalverb oder ein Einzelaspekt) jeder Anforderung
 - In den Spalten Attribute der Teilanforderungen aus Perspektive Schicht, Baustein und Anforderung
 
 In der Tabelle auch Delta-Informationen zur Vorjahresedition 
