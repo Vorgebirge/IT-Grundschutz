@@ -11,7 +11,7 @@ Umwandlung jedes Bausteins des IT-Grundschutz-Kompendiums in eine Excel-Tabelle
 - Eine Zeile je Teilanforderung (maximal ein Modalverb oder ein Einzelaspekt) jeder Anforderung
 - In den Spalten Attribute der Teilanforderungen aus Perspektive Schicht, Baustein und Anforderung
 
-In der Tabelle auch Delta-Informationen zur Vorjahresedition 
+In der Tabelle auch Delta-Informationen zur Vorjahresedition (ab Edition 2021)
 - Zu jeder Teilanforderung Angabe der Teilanforderung der Vorjahresedition mit der größten [Kosinus-Ähnlichkeit](https://de.wikipedia.org/wiki/Kosinus-%C3%84hnlichkeit) (innerhalb des gleichen Bausteins und innerhalb des gesamten IT-GS-Kompendiums)
 - Zu jeder Teilanforderung Hinweise zu jedem geänderten Attribut bzgl. Schicht, Baustein oder Anforderung 
 
