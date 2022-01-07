@@ -4,7 +4,7 @@
 
 ## Aufbereitung IT-Grundschutz-Kompendium als JSON- und als XLSX-Datei(en)
 
-Umwandlung des [IT-Grundschutz-Kompendiums](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html) in eine [JSON](https://de.wikipedia.org/wiki/JavaScript_Object_Notation)-Datei
+Umwandlung des [IT-Grundschutz-Kompendiums](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html) in eine [JSON](https://de.wikipedia.org/wiki/JavaScript_Object_Notation)-Datei (ab Edition 2020)
 
 Ausgehend von der JSON-Datei:
 Umwandlung jedes Bausteins des IT-Grundschutz-Kompendiums in eine Excel-Tabelle
