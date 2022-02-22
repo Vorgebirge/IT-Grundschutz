@@ -7,7 +7,7 @@
 Umwandlung des [IT-Grundschutz-Kompendiums](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html) in eine [JSON](https://de.wikipedia.org/wiki/JavaScript_Object_Notation)-Datei (ab Edition 2020)
 
 Ausgehend von der JSON-Datei:
-Umwandlung jedes Bausteins des IT-Grundschutz-Kompendiums in eine Excel-Tabelle
+Umwandlung des gesamten IT-Grundschutz-Kompendiums und jedes einzelnen Bausteins in eine Excel-Tabelle
 - Eine Zeile je Teilanforderung (maximal ein Modalverb oder ein Einzelaspekt) jeder Anforderung
 - In den Spalten Attribute der Teilanforderungen aus Perspektive Schicht, Baustein und Anforderung
 
