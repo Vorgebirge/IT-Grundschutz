@@ -12,7 +12,7 @@ Umwandlung des gesamten IT-Grundschutz-Kompendiums und jedes einzelnen Bausteins
 - In den Spalten Attribute der Teilanforderungen aus Perspektive Schicht, Baustein und Anforderung
 
 In jeder Tabelle auch Delta-Informationen zur Vorjahresedition des IT-GS-Kompendiums (ab Edition 2021)
-- Zu jeder Teilanforderung Angabe der Teilanforderung der Vorjahresedition mit der größten [Kosinus-Ähnlichkeit](https://de.wikipedia.org/wiki/Kosinus-%C3%84hnlichkeit) (innerhalb des gleichen Bausteins und innerhalb des gesamten IT-GS-Kompendiums)
+- Zu jeder Teilanforderung Angabe der Teilanforderung der Vorjahresedition mit der größten [Kosinus-Ähnlichkeit](https://de.wikipedia.org/wiki/Kosinus-%C3%84hnlichkeit) (innerhalb des gleichen Bausteins und innerhalb des gesamten IT-GS-Kompendiums. Letzteres nur, wenn zu der jeweiligen aktuellen Teilanforderung keine Teilanforderung des gleichen Bausteins der Vorjahresedition mit Kosinus-Ähnlichkeit 1.0 gefunden wird.)
 - Zu jeder Teilanforderung Hinweise zu jedem geänderten Attribut bzgl. Schicht, Baustein oder Anforderung 
 
 In jeder Tabelle auch Leerfelder für [GSC](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_6_IT-Grundschutz-Check/Lektion_6_node.html;jsessionid=6C7A24BA0A68383A2C55DB433D49B4A3.internet082)-Ergebnisse und optional beliebige weitere Leerfelder z.B. zum Monitoring der Befunde und ihrer Korrekturmaßnahmen
